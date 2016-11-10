@@ -1,4 +1,4 @@
-# PSE_ETWKeylogger
+# ETWKeylogger_PSE
 PowerShell Empire module for our keylogging technique presented at Ruxcon 2016
 
 Slides:  
@@ -10,8 +10,8 @@ https://github.com/CyberPoint/Ruxcon2016ETW/tree/master/KeyloggerPOC
 
 ##Install
 Copy files to PSE:  
-Get-USBKeystrokes.ps1 -> <Empire_dir>/data/module_source/collection/  
-USBKeyLogger.py -> <Emipre_dir>/lib/modules/collection/  
+Get-USBKeystrokes.ps1 -> `<Empire_dir`>/data/module_source/collection/  
+USBKeyLogger.py -> `<Emipre_dir`>/lib/modules/collection/  
 
 ##Requirements
 Windows 7* and up  
@@ -50,3 +50,6 @@ Started keylogger
 [=== Gmail and 1 more page ‎- Microsoft Edge - 09/11/2016:13:02:20 ===]  
 password  
 
+##Contact Us  
+@CyberPoint_SRT
+SRT [at] cyberpointllc.com
