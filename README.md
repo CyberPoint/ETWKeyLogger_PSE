@@ -18,6 +18,7 @@ Windows 7* and up
 *Windows 7 - No USB 3.0 support  
 USB Keyboard  
 Admin priveleges  
+.NET 4.5.2     
 
 ##Usage
 Requires admin to run (see UAC bypasses: privesc/bypassuac*). From a PSE agent session:  
